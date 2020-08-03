@@ -15,7 +15,7 @@
 
 
 [<img align="left" alt="Shyam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shyam | Gmail" width="22px" src="https://user-images.githubusercontent.com/53273480/89193013-fa6c6180-d5c2-11ea-81af-b9fd2a9c68f0.jpeg" />][Gmail]
+<a href="mailto:shyamgurunath474@gmail.com"><img align="left" alt="Shyam | Gmail" width="22px" src="https://user-images.githubusercontent.com/53273480/89193013-fa6c6180-d5c2-11ea-81af-b9fd2a9c68f0.jpeg" /></a>
 
 <br />
 

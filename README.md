@@ -15,7 +15,7 @@
 
 
 [<img align="left" alt="Shyam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shyam | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Gmail]
+[<img align="left" alt="Shyam | Gmail" width="22px" src="https://user-images.githubusercontent.com/53273480/89191155-289c7200-d5c0-11ea-9f74-5cee2be8366a.png" />][Gmail]
 
 <br />
 

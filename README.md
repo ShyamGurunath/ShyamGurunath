@@ -1,6 +1,6 @@
 ### Hi,I'm Shyam 👋
 
-#### I'm a aspiring Data Scientist
+#### I'm an aspiring Data Scientist
 
 <img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" align="right" width="300px" alt="ShyamGurunath"/>
 

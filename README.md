@@ -8,10 +8,7 @@
 - 👯 I’m looking to collaborate on DataScience
 - 🤔 I’m looking for help with DataScience Projects,Tableau,Powerbi
 - 💬 Ask me about Django,DataScience,Tableau,Powerbi
-
-<aside>
-    <img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" alt="ShyamGurunath"/>
-    </aside>
+<img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" align="right" width="300px" alt="ShyamGurunath"/>
 
 ### Connect with me:
 

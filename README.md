@@ -1,10 +1,9 @@
 ### Hi,I'm Shyam 👋
 
-#### I'm an aspiring Data Scientist
+#### I'm a Data science enthusiast & Ml activist
 
 <img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" align="right" width="300px" alt="ShyamGurunath"/>
 
-Hey there, I'm Shyam a data science enthusiast & Ml activist.
 
 - 🔭 I’m currently working on Data Science Projects & Flutter
 - 👯 I’m looking to collaborate on DataScience

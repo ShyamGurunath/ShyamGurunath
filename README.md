@@ -4,11 +4,11 @@
 
 <img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" align="right" width="300px" alt="ShyamGurunath"/>
 
-- 🔭 I’m currently working on Data Science Projects & Django
-- 🌱 I’m currently learning Data Science & Cloud Computing
+Hey there, I'm Shyam a data science enthusiast & Ml activist.
+
+- 🔭 I’m currently working on Data Science Projects & Flutter
 - 👯 I’m looking to collaborate on DataScience
-- 🤔 I’m looking for help with AWS
-- 💬 Ask me about Django,DataScience,Tableau,Powerbi
+- 💬 Ask me about Django,DataScience,Tableau,Powerbi,Flutter,Fast-api,Web scraping
 
 
 ### Connect with me:

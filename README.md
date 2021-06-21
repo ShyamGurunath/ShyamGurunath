@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" align="right" width="300px" alt="ShyamGurunath"/>
 
-###### Enthusiastic & skilled data scientist, over 10+ months of project experience in various domains.Passionate learner & developer of end to end data related products.Managed over 2 project teams for building real world data projects.Strengths are Data Analysis,Machine Learning,Analytics & Natural Language Processing. Analytical thinker & love solving data science problems by establishing highly impacting data workflow culture a company can be proud of.
+#### Enthusiastic & skilled data scientist, over 10+ months of project experience in various domains.Passionate learner & developer of end to end data related products.Managed over 2 project teams for building real world data projects.Strengths are Data Analysis,Machine Learning,Analytics & Natural Language Processing. Analytical thinker & love solving data science problems by establishing highly impacting data workflow culture a company can be proud of.
 
 
 ### Connect with me:

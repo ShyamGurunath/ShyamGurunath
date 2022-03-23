@@ -1,8 +1,20 @@
-### Hi,I'm Shyam 👋
+### Hey, I'm Shyam & I am Data Scientist. 👋
 
 <img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" align="right" width="300px" alt="ShyamGurunath"/>
 
-#### Enthusiastic & skilled data scientist, over 10+ months of project experience in various domains.Passionate learner & developer of end to end data related products.Managed over 2 project teams for building real world data projects.Strengths are Data Analysis,Machine Learning,Analytics & Natural Language Processing. Analytical thinker & love solving data science problems by establishing highly impacting data workflow culture a company can be proud of.
+Here's Why?
+
+Whether it's data science problems or machine learning, I thrive on creating products & solving data problems that make the data much informative & fun.
+The results are more accurate data & a better-informed strategy.
+
+A little more about me:
+- Enthusiastic & skilled data scientist, over 10+ months of project experience in various domains.Passionate learner & developer of end-to-end data-related products.
+- Strengths are Data Analysis, Machine Learning, Analytics & Natural Language Processing. 
+- Analytical thinker & love solving data science problems by establishing a highly impacting data workflow culture a company can be proud of.
+
+Professional Highlights:
+- Managed over 2 project teams for building real-world data projects.
+- Built real-world impacting data products
 
 
 ### Connect with me:

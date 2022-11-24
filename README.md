@@ -1,20 +1,19 @@
-### Hey, I'm Shyam & I am Data Scientist. 👋
+### Hey, I'm Shyam & I am Software Developer. 👋
 
 <img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" align="right" width="300px" alt="ShyamGurunath"/>
 
 Here's Why?
 
-Whether it's data science problems or machine learning, I thrive on creating products & solving data problems that make the data much informative & fun.
+Whether it's software problems or data science, I thrive on creating products & solving data problems that make the data much informative & fun.
 The results are more accurate data & a better-informed strategy.
 
 A little more about me:
-- Enthusiastic & skilled data scientist, over 10+ months of project experience in various domains.Passionate learner & developer of end-to-end data-related products.
-- Strengths are Data Analysis, Machine Learning, Analytics & Natural Language Processing. 
-- Analytical thinker & love solving data science problems by establishing a highly impacting data workflow culture a company can be proud of.
+- Enthusiastic & skilled software developer over 1.7 years of expertise in creating web apps, mobile apps & CICD
+-  Strengths are Python,Deno,Node,Nextjs,CICD,Data Analysis & Machine Learning. 
+- Analytical thinker & love solving software problems by establishing a highly impacting workflow culture.
 
 Professional Highlights:
-- Managed over 2 project teams for building real-world data projects.
-- Built real-world impacting data products
+- Built 2 Client projects, Monitoring & Intergration system which solves the problem of intercommunication between factory equipments.
 
 
 ### Connect with me:
